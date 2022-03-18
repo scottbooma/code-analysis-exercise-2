@@ -24,14 +24,15 @@ function (floor){
 
 | Input | Output |
 | ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+|   0   |    0   | 
+|   1   |    0   | 
+|   15  |    13  | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>The function takes a number as the floor value, if that number is 0 or below it will output that number, if it is greated than 0 and less than 12
+    then it outputs the number less 1, if the input number is 13 or higher it will output the number less 2.</td>
   </tr>
 </table>
 
